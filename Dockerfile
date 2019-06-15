@@ -1,4 +1,4 @@
-FROM 100.79.1.215:20202/servicestage/openjdk:8u181-jdk-alpine
+FROM openjdk:8u181-jdk-alpine
 
 WORKDIR /home/apps/
 
